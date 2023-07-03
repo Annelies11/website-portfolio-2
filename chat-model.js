@@ -9,6 +9,7 @@ const utterances = [
     ["nidn pak bagus","nidn kaprodi","berapa nidn pak bagus"],       //6		
     ["bagaimana cuaca hari ini","cuaca hari ini"],														//7
     ["bagaimana kabarmu", "apa kabar"],														//8
+    ["apakah kamu sudah makan", "sudah makan belum", "sudah makan"],														//9
   ];
    
   // Array jawaban
@@ -23,6 +24,7 @@ const utterances = [
       ["NIDN Pak Ahmad Bagus Setiawan, ST, M.Kom., MM. adalah 0703018704"],    //6
       ["Cuaca hari ini cukup cerah. Meskipun hatimu sedang mendung. Cuakss"],							//7
       ["Aku baik. Meskipun prosessorku cukup panas. Senang bertemu denganmu."],														//8
+      ["Saya adalah Bot jadi tidak makan makanan manusia. Yang saya butuhkan adalah paket data."],														//9
   ];
    
   // Jawaban ketika tidak ada yang sama dengan pertanyaan
